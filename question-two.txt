@@ -1,0 +1,26 @@
+1-  The console Will Be "Hello !"
+    The value of d.greeting is 'Hello !' because when we do d = c
+    we are not copying the object c into d.
+    we are copying the reference to the object c into d.
+    When we change the property of c, it is change in d as well. 
+
+2-*- The answer will be 50 
+    we are actually copying the reference to the first variable into the second variable
+    not change the value so the y will be 50
+
+
+3- -*- The answer Will be 101
+    because when we assign in the arrays with index greater than the length of the array, 
+    it will be added to the array.and the length of the array is automatically increased to
+    new length. as we add index 100 so the lenght of the array is 101.
+
+4- console1: will be 20
+    console2: will be non because the this keyword is not bound to the shape object in the arrow function. so it is undefined
+
+5- diff  called before the function is defined, it results in a error
+
+6- will get an object from function
+
+7-number
+8-
+
